@@ -1,0 +1,4 @@
+.dist
+.env
+.wwebjs_cache
+node_modules
